@@ -3,6 +3,7 @@
 ## Actividades
 # Cambio en GitHub
 * Este cambio fue hecho directamente en GitHub
+  
 En el presente repositorio realizar la siguientes tareas:
 
 1. Clonar (git clone) el repositorio en sus máquinas personales; usar git-bash
